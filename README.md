@@ -1,5 +1,5 @@
-Hi, I’m a student a Oregon State through the CS post-bacc program
-As of April 2022, I am studying databases and algorithms
+Hi, I’m a student a Oregon State through the CS post-bacc program.
+As of April 2022, I am studying databases and algorithms.
 
 
 <!---
